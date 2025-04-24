@@ -14,7 +14,7 @@ sudo apt update
 
 sudo apt upgrade
 
-git clone 
+git clone https://github.com/Niranjan14-Ops/Todo-List.git
 
 ls
 
